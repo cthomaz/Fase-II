@@ -4,16 +4,11 @@
  */
 package swing;
 
-import Beans.Cliente;
 import Beans.Produto;
 import controlador.TPDV;
-import java.text.ParseException;
 import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import sun.awt.windows.ThemeReader;
 
 /**
  *
