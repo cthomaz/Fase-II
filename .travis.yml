@@ -1,2 +1,6 @@
-Fase-II
-=======
+## YAML Template.
+language: java
+jdk:
+  - oraclejdk7
+  - openjdk7
+  - openjdk6
